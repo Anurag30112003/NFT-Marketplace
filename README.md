@@ -11,7 +11,7 @@ This Project is a fork of Ethereum and demostrates how you can build your own NF
 </p>
 # 🚀 Quick Start
 
-📄 Clone or fork `ethereum-nft-marketplace`:
+📄 Clone or fork `nft-marketplace`:
 ```sh
 git clone 
 ```
